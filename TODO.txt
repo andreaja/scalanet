@@ -1,0 +1,4 @@
+* Sette opp maven
+* Katalogstruktur
+* Public interfaces
+...
