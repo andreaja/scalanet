@@ -1,4 +1,5 @@
 * Sette opp maven
 * Katalogstruktur
 * Public interfaces
+* Rydde opp i tester, foreløpig ingen unit tester, bare tullball.
 ...
