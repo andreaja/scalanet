@@ -1,5 +1,5 @@
-* Sette opp maven
-* Katalogstruktur
+* Velge unit test rammeverk
+* Unit test poc
 * Public interfaces
 * Rydde opp i tester, foreløpig ingen unit tester, bare tullball.
 ...
